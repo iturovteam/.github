@@ -1,4 +1,4 @@
-# ITU ROV Team 🐋
+# ITU ROV Team 🐳
 
 The **ITU ROV Team** is a multidisciplinary student group from **Istanbul Technical University**, developing cutting-edge underwater robots. Established under the Faculty of Shipbuilding and Marine Sciences, our team has 8 years of experience in creating innovative solutions for underwater challenges. We continuously push the boundaries of autonomous and remotely operated underwater vehicles (ROVs) through teamwork, dedication, and a commitment to excellence.
 
